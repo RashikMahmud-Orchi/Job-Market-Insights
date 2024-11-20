@@ -1,0 +1,12 @@
+pandas
+matplotlib
+selenium
+webdriver-manager
+nltk
+sklearn
+plotly
+scikit-learn
+textblob
+panel
+nbformat
+
